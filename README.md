@@ -1,3 +1,19 @@
+# Karabiner
+
+Karabiner is a strong and convenient tool to change your Mac keyboard setup, including mapping a key to another and making more complex modification by multiple keys.
+
+# Karabiner Setup on MacOS
+
+The `my_setup.json` in `karabiner` folder is a simplified and modified version of Marlonrichert's work.
+
+Marlonrichert's work is great and easy to use, however, some people may not like the slight delay after enabling the functions.
+
+`my_setup.json` is a very simple setup of Karabiner Complex modifications, which includes the convenient arrow opeartions, as well as delete backwards and forwards, by pressing left_control or fn simultaneously. You may change the setup to whatever key makes you happy.
+
+If you want to try stronger functions, please try Marlonrichert's original work `karabiner.json`.
+
+###### The following is the original introduction written by Marlonrichert.
+
 # .config
 
 Dotfiles for Zsh, Git, SSH, Terminal.app, Karabiner-Elements and my web browser on macOS
