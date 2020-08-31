@@ -4,7 +4,7 @@ Karabiner is a strong and convenient tool to change your Mac keyboard setup, inc
 
 # Karabiner Setup on MacOS
 
-The `my_setup.json` in `karabiner` folder is a simplified and modified version of Marlonrichert's work.
+The `my_setup.json` in `karabiner` folder is a simplified and modified version of Marlonrichert's work, which is inspired by his work.
 
 Marlonrichert's work is great and easy to use, however, some people may not like the slight delay after enabling the functions.
 
