@@ -1,8 +1,8 @@
 {
-    "title": "Diamond Cursor",
+    "title": "My_Setup",
     "rules": [
         {
-            "description": "Change fn + I/J/K/L/U/O/D/F to Arrow Keys and Back and Front Delete",
+            "description": "Change fn + I/J/K/L/U/O/D/F to Arrow Keys",
             "manipulators": [
                 {
                     "type": "basic",
@@ -121,51 +121,13 @@
                             "modifiers": [
                                 "left_option"
                               ]
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "d",
-                        "modifiers": {
-                            "mandatory": [
-                                "fn"
-                            ],
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "delete_or_backspace"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "f",
-                        "modifiers": {
-                            "mandatory": [
-                                "fn"
-                            ],
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "delete_forward"
                         }
                     ]
                 }
             ]
         },
         {
-            "description": "Change left_control + I/J/K/L/U/O/D/F to Arrow Keys and Back and Front Delete",
+            "description": "Change left_control + I/J/K/L/U/O/D/F to Arrow Keys",
             "manipulators": [
                 {
                     "type": "basic",
@@ -284,44 +246,6 @@
                             "modifiers": [
                                 "left_option"
                               ]
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "d",
-                        "modifiers": {
-                            "mandatory": [
-                                "left_control"
-                            ],
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "delete_or_backspace"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "f",
-                        "modifiers": {
-                            "mandatory": [
-                                "left_control"
-                            ],
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "delete_forward"
                         }
                     ]
                 }
