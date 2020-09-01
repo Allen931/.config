@@ -8,7 +8,7 @@ The `my_setup.json` in `karabiner` folder is a simplified and modified version o
 
 Marlonrichert's work is great and easy to use, however, some people may not like the slight delay after enabling the functions.
 
-`my_setup.json` is a very simple setup of Karabiner Complex modifications, which includes the convenient arrow opeartions, as well as delete backwards and forwards, by pressing left_control or fn simultaneously. You may change the setup to whatever key makes you happy.
+`my_setup.json` is a very simple setup of Karabiner Complex modifications, which includes the convenient arrow opeartions by pressing left_control or fn simultaneously. You may change the setup to whatever key makes you happy.
 
 If you want to try stronger functions, please try Marlonrichert's original work `karabiner.json`.
 
