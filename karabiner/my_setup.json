@@ -2,7 +2,7 @@
     "title": "My_Setup",
     "rules": [
         {
-            "description": "Change fn + I/J/K/L/U/O/D/F to Arrow Keys",
+            "description": "Change fn + I/J/K/L/U/O to Arrow Keys",
             "manipulators": [
                 {
                     "type": "basic",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "description": "Change left_control + I/J/K/L/U/O/D/F to Arrow Keys",
+            "description": "Change left_control + I/J/K/L/U/O to Arrow Keys",
             "manipulators": [
                 {
                     "type": "basic",
